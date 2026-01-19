@@ -1,5 +1,16 @@
 # Mobile Sales Analytics Dashboard
 
+## Dashboard Preview
+
+### Overall Sales Performance
+![Overall Sales Dashboard](overall_sales_dashboard.png)
+
+### Sales Trend & Time Analysis
+![Sales Trend & Time Analysis](sales_trend_and_time_analysis.png)
+
+### Product, Region & Payment Insights
+![Product, Region & Payment Analysis](product_region_payment_analysis.png)
+
 ## Objective
 To analyze mobile sales data and deliver insights through an interactive Power BI dashboard to support business decisions.
 
@@ -37,17 +48,6 @@ The dashboard provides a clear view of sales trends, product performance, region
 - DAX  
 - Data Modeling  
 - Sales & Business Analytics
-
-## Dashboard Preview
-
-### Overall Sales Performance
-![Overall Sales Dashboard](overall_sales_dashboard.png)
-
-### Sales Trend & Time Analysis
-![Sales Trend & Time Analysis](sales_trend_and_time_analysis.png)
-
-### Product, Region & Payment Insights
-![Product, Region & Payment Analysis](product_region_payment_analysis.png)
 
 ## Contact  
 **Email:** ishantkatiyar68@gmail.com  
