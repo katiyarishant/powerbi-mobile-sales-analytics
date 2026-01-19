@@ -41,13 +41,13 @@ The dashboard provides a clear view of sales trends, product performance, region
 ## Dashboard Preview
 
 ### Overall Sales Performance
-![Overall Sales Dashboard](screenshots/overall_sales_dashboard.png)
+![Overall Sales Dashboard](overall_sales_dashboard.png)
 
 ### Sales Trend & Time Analysis
-![Sales Trend](screenshots/sales_trend_and_time_analysis.png)
+![Sales Trend & Time Analysis](sales_trend_and_time_analysis.png)
 
 ### Product, Region & Payment Insights
-![Product Analysis](screenshots/product_region_payment_analysis.png)
+![Product, Region & Payment Analysis](product_region_payment_analysis.png)
 
 ## Contact  
 **Email:** ishantkatiyar68@gmail.com  
